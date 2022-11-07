@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/FredokaOne-Regular.ttf",
+      "sha1": "c4377bea37b4f84e6d2183741664025d5cecef3e"
+    },
+    {
+      "path": "src/assets/fonts/iBold.ttf",
+      "sha1": "ffb52ef443ca91c5944b118f8b9ed8df280a8fb4"
+    },
+    {
+      "path": "src/assets/fonts/iLight.ttf",
+      "sha1": "ef494726999e1f029569bc04b0b35f116ee51b2c"
+    },
+    {
+      "path": "src/assets/fonts/iNum.ttf",
+      "sha1": "3b73cbb966e2f150684f474ac49c51dc080a6b30"
+    },
+    {
+      "path": "src/assets/fonts/iNumLight.ttf",
+      "sha1": "d2cbe925113a3643416282e8725c54390a9aef40"
+    },
+    {
+      "path": "src/assets/fonts/iNumMed.ttf",
+      "sha1": "3b73cbb966e2f150684f474ac49c51dc080a6b30"
+    },
+    {
+      "path": "src/assets/fonts/iReg.ttf",
+      "sha1": "45fe9a8ba4cacdec88aba51bb06b144f83569a95"
+    }
+  ]
+}
